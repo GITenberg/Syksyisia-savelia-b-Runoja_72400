@@ -1,0 +1,33 @@
+_repo: Syksyisia-savelia-b-Runoja_72400
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Walakorpi, Urho Wiljo
+    aliases:
+    - Haapanen, Urho
+    - Haapanen, Urho Viljo
+    birthdate: 1886
+    deathdate: 1957
+    gutenberg_agent_id: '46800'
+    url: http://www.gutenberg.org/2009/agents/46800
+    wikipedia: https://fi.wikipedia.org/wiki/U._W._Walakorpi
+description: ''
+gutenberg_issued: '2023-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72400'
+language: fi
+pgterms:marc905: 20231207033137haapanen
+pgterms:marc906: '1905'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bBoman & Karlsson, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish poetry -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Syksyisiä säveliä : $b Runoja'
+url: http://www.gutenberg.org/ebooks/72400
